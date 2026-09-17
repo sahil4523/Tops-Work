@@ -1,0 +1,43 @@
+1. What is Python?
+
+Answer:
+
+Python is a high-level, easy-to-learn programming language. It is used for web development, data analysis, AI, automation, and many other applications.
+
+If madam asks: Why Python?
+
+Python has simple syntax, is easy to learn, and has many libraries and frameworks.
+
+
+2.
+If madam asks why Python is used:
+
+Instagram: Backend development
+YouTube: Data processing/backend
+Netflix: Recommendation and data analysis
+
+Short answer:
+
+Python is used because it has powerful libraries and makes development faster.
+
+4. If madam asks what sys is:
+
+sys is a built-in Python module that provides information about the Python system.
+
+What is sys.version?
+
+It shows the Python version currently running the program.
+
+5.Python vs C/Java execution
+
+print("Hello")
+
+C/Java:
+
+C is compiled directly into machine code before execution. Java is compiled into bytecode, which runs on the JVM.
+
+Very short difference:
+
+Python → interpreted
+C → compiled
+Java → compiled to bytecode and runs on JVM

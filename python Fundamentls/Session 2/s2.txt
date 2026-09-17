@@ -1,0 +1,16 @@
+2.naming rules:
+
+Variable names can contain letters, numbers and underscore. They cannot start with a number, cannot contain spaces, and cannot use Python keywords.
+
+3.What is id()?
+
+id() returns the unique identity or memory address of an object during its lifetime.
+
+Simple difference:
+
+type() tells what type of data it is.
+id() tells the identity of the object.
+
+4.Primitive data types store simple values, like int, float, str, and bool.
+
+Non-primitive data types can store collections or multiple values, like list, tuple, set, and dictionary.

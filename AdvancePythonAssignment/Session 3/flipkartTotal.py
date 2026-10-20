@@ -1,0 +1,9 @@
+try:
+    price = float(input("Enter product price: "))
+    quantity = int(input("Enter quantity: "))
+
+    total = price*quantity
+    print("Total amount:", total)
+
+except ValueError:
+    print("Please enter valid numbers!")

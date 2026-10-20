@@ -1,0 +1,6 @@
+Simple explanation
+- class ... (Exception) creates a custom exception.
+- raise is used to generate an error.
+- try contains code that may cause an error.
+- except handles the error.
+- pass means the class has no extra code inside it.

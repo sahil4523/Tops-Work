@@ -1,0 +1,7 @@
+We use self.title = title and self.rating = rating to save the values inside the object. The self keyword refers to the current object.
+
+- Class: A blueprint for creating objects.
+- Object: An instance of a class.
+- __init__(): Initializes an object's attributes.
+- self: Refers to the current object.
+- Method: A function defined inside a class.
